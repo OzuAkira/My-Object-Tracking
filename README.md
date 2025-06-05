@@ -1,1 +1,1 @@
-参照したリポジトリ： https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking
+Referenced repository： https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking
